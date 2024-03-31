@@ -1,0 +1,3 @@
+-Correction CSS dans le JS : wihite-space --> WhiteSpace ; font-family --> fontFamily ; etc
+
+Regarder s'il faut rendre les dots interactifs ou non
